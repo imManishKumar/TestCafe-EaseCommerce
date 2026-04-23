@@ -20,6 +20,12 @@ Clone the repository & navigate into project folder:
 
 git clone https://github.com/imManishKumar/TestCafe-EaseCommerce.git
 
+Navigate to project folder:
+
+```bash
+cd <repository-folder>
+```
+
 Install all required dependencies:
 
 ```bash
